@@ -3,7 +3,7 @@ import { RowResponse } from "./types";
 
 import httpMethods from "../https/httpMethods";
 
-const baseUrl = "http://185.244.172.108:8081/";
+const baseUrl = "https://185.244.172.108:8081/";
 export const mainID = 116504;
 export const mainRowID = "f995a3b8-56dc-41cc-8d90-72b522ada8d9";
 
